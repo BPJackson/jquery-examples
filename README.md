@@ -1,7 +1,4 @@
 #jQuery Exercises
-* jQuery: Better interactive projects that would excite front-end students.
-* would use often in live projects
-* lessons for a photo gallery or drop-down menus.
 
 ####Objectives
 * Checkout real world examples of jQuery on the web
@@ -19,7 +16,7 @@
 * Change a major part of the existing jQuery example
 * Add a new feature that improves/changes the functionality
 
-#####Examples
+####Examples
 * [Codepen Search for jQuery](http://codepen.io/search/pens?q=jquery&limit=all&type=type-pens)
 * <p data-height="268" data-theme-id="0" data-slug-hash="dteFo" data-default-tab="result" data-user="tonx" class="codepen">See the Pen <a href="http://codepen.io/tonx/pen/dteFo/">Jquery & CSS3 background</a> by enrico toniato (<a href="http://codepen.io/tonx">@tonx</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
@@ -32,7 +29,13 @@
 * <p data-height="268" data-theme-id="0" data-slug-hash="ICfFE" data-default-tab="result" data-user="githiro" class="codepen">See the Pen <a href="http://codepen.io/githiro/pen/ICfFE/">SVG Doughnut chart with animation and tooltip</a> by Hiro (<a href="http://codepen.io/githiro">@githiro</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-#####jQuery Plugin's
+####jQuery Plugin's
+
 * [Plugin Registry](https://www.npmjs.com/browse/keyword/jquery-plugin)
 * [Sample plugin - Slider](http://www.basic-slider.com/)
 * [A list of popular plugins](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
+
+####Resources
+
+* [jQuery UI](https://jqueryui.com/accordion/)
+* [jQuery Home](https://jquery.com/)
