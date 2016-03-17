@@ -14,10 +14,13 @@
 ####Exercise Two
 Use jQuery to asynchonously load an image!
 
-We want this ->
-![image](./images/async.gif)
-Instead of this ->
-![image](./images/progressive.gif)
+We want this...
+
+![image](./async.gif)
+
+Instead of this...
+
+![image](./progressive.gif)
 
 ####Checklistt
 
