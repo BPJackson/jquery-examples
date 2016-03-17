@@ -12,9 +12,54 @@
 * Now that you've gained an understanding of the functionality, implement a new feature.  
 
 ####Exercise Two
-Recreate this loading gif
+Use jQuery to asynchonously load an image!
 
-![Loading Gif](./InternetSlowdown_Day.gif)
+We want this ->
+![image](./images/async.gif)
+Instead of this ->
+![image](./images/progressive.gif)
+
+####Checklistt
+
+* The jQuery
+
+* Firstly, make sure you have jQuery included in your project. Next, use jQuery to select the image you want to eventually insert the large image into. In my example, it’s the first image on the page.
+
+```
+var $image = $("img").first();
+```
+
+* Then I need to create an image programmatically. In jQuery, you can just select the string of the tag you want to create.
+
+```
+var $downloadingImage = $("<img>");
+```
+
+* Once you set the src attribute on this image downloading will start. Before that, we want to ensure that we have a handler for the onload or load event. Once the image had been downloaded this handler will trigger.
+
+```
+$downloadingImage.load(function(){
+
+});
+
+```
+
+* We want to set the destination $image source to the $downloadingImage source. The reference to $this inside the handler is the $downloadImage. We should use this since in the handler just in case we use this same handler for other images.
+
+```
+$downloadingImage.load(function(){
+	$image.attr("src", $(this).attr("src"));
+});
+```
+
+* Last but not least, we want to set the $downloadingImage‘s source attribute.
+
+```
+$downloadingImage.attr("src", "http://an.image/to/aynchrounously/download.jpg");
+```
+
+* This will start the image download in the background immediately. Once the download is has finished, the load callback will be triggered. The destination’s image source will be that of the newly downloaded image.
+
 
 ####Success Criteria
 * Understand how the pieces of the puzzle are put together
