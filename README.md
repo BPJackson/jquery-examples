@@ -24,8 +24,6 @@ Instead of this...
 
 ####Checklistt
 
-* The jQuery
-
 * Firstly, make sure you have jQuery included in your project. Next, use jQuery to select the image you want to eventually insert the large image into. In my example, it’s the first image on the page.
 
 ```
