@@ -24,7 +24,7 @@ Instead of this...
 
 #####Exercise Objectives:
 * Determine the appropiate HTML and CSS to work with your jQuery
-* Create an <img> tag programmatically with jQuery.
+* Create an `<img>` tag programmatically with jQuery.
 * Assign an on load event handler so when the large image loads it assigns the new image url to the new image.
 * Assign a URL to the src attribute of the new image.
 
@@ -97,3 +97,4 @@ $downloadingImage.attr("src", "http://an.image/to/aynchrounously/download.jpg");
 
 * [jQuery UI](https://jqueryui.com/accordion/)
 * [jQuery Home](https://jquery.com/)
+m/)
