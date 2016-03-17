@@ -11,6 +11,11 @@
 * Once comfortable with the code, change something so that it works differently.
 * Now that you've gained an understanding of the functionality, implement a new feature.  
 
+####Exercise Two
+Recreate this loading gif
+
+![Loading Gif](./InternetSlowdown_Day.gif)
+
 ####Success Criteria
 * Understand how the pieces of the puzzle are put together
 * Change a major part of the existing jQuery example
