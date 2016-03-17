@@ -22,7 +22,9 @@ Instead of this...
 
 ![image](./images/progressive.gif)
 
-####Checklist
+####Checklistt
+
+* The jQuery
 
 * Firstly, make sure you have jQuery included in your project. Next, use jQuery to select the image you want to eventually insert the large image into. In my example, it’s the first image on the page.
 
@@ -63,9 +65,10 @@ $downloadingImage.attr("src", "http://an.image/to/aynchrounously/download.jpg");
 
 
 ####Success Criteria
-* Understand how the pieces of the puzzle are put together
-* Change a major part of the existing jQuery example
-* Add a new feature that improves/changes the functionality
+* Successfully navigate through existing code
+* Change the nature of an already working jQuery example
+* Implement a working feature into existing code
+* Use jQuery to create a more fluid experience for loading images
 
 ####Examples
 * [Codepen Search for jQuery](http://codepen.io/search/pens?q=jquery&limit=all&type=type-pens)
