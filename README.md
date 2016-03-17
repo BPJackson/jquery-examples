@@ -2,21 +2,25 @@
 * jQuery: Better interactive projects that would excite front-end students.
 * would use often in live projects
 * lessons for a photo gallery or drop-down menus.
+
 ####Objectives
 * Checkout real world examples of jQuery on the web
 * Recognize the role/use/possiblities of jQuery
 * Successfuly interact with an existing codebase
 * Handroll your own feature
+
 ####Exercise One
 * Take a look at these examples given
 * Once comfortable with the code, change something so that it works differently.
 * Now that you've gained an understanding of the functionality, implement a new feature.  
+
 ####Success Criteria
 * Understand how the pieces of the puzzle are put together
 * Change a major part of the existing jQuery example
 * Add a new feature that improves/changes the functionality
+
 #####Examples
-* [Codepen jQuery](http://codepen.io/search/pens?q=jquery&limit=all&type=type-pens)
+* [Codepen Search for jQuery](http://codepen.io/search/pens?q=jquery&limit=all&type=type-pens)
 * <p data-height="268" data-theme-id="0" data-slug-hash="dteFo" data-default-tab="result" data-user="tonx" class="codepen">See the Pen <a href="http://codepen.io/tonx/pen/dteFo/">Jquery & CSS3 background</a> by enrico toniato (<a href="http://codepen.io/tonx">@tonx</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 * <p data-height="268" data-theme-id="0" data-slug-hash="rKDBx" data-default-tab="result" data-user="TimRuby" class="codepen">See the Pen <a href="http://codepen.io/TimRuby/pen/rKDBx/">CSS3/jQuery Panel</a> by Tim Ruby (<a href="http://codepen.io/TimRuby">@TimRuby</a>) on <a href="http://codepen.io">CodePen</a>.</p>
